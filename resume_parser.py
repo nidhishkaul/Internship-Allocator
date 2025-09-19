@@ -3,9 +3,13 @@ import re, json, os, io
 from groq import Groq
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
+import streamlit as st
 
 load_dotenv()
-GROQ_KEY = os.getenv("GROQ_API_KEY", "")
+try:
+    GROQ_KEY = st.secrets["GROQ_API_KEY"]
+except Exception:
+    GROQ_KEY = os.getenv("GROQ_API_KEY", "")
 groq_client = Groq(api_key=GROQ_KEY) if GROQ_KEY else None
 
 
