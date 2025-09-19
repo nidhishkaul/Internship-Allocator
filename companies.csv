@@ -1,0 +1,31 @@
+CompanyID,CompanyName,Industry,Sector,Location,PostedRole,SkillsRequired,Capacity,Duration,Stipend,ContactEmail
+C001,TechNova Solutions,IT,Software Development,Bangalore,Software Developer Intern,"Python, React, SQL",10,3 months,15000,hr@technova.com
+C002,GreenEarth Energy,Energy,Renewable Energy,Hyderabad,Solar Project Intern,"Electrical Engineering, CAD",5,2 months,12000,careers@greenearth.com
+C003,FinAxis Capital,Finance,Investment Banking,Mumbai,Finance Analyst Intern,"Excel, Financial Modelling",7,6 months,20000,jobs@finaxis.com
+C004,MedCure Pharma,Healthcare,Pharmaceuticals,Pune,Research Intern,"Biotech, Lab Work, Report Writing",6,3 months,10000,interns@medcure.com
+C005,AgriSmart India,Agriculture,Agri-Tech,Indore,Agriculture Data Intern,"Data Analysis, IoT Basics",4,2 months,8000,apply@agrismart.com
+C006,BuildWell Infra,Infrastructure,Civil Engineering,Delhi,Civil Site Intern,"AutoCAD, Structural Analysis",8,4 months,14000,careers@buildwell.com
+C007,MarketGurus,Marketing,Digital Marketing,Gurugram,Marketing Intern,"Content Writing, SEO, Social Media",12,3 months,12000,hr@marketgurus.com
+C008,SpaceNext Aero,Aerospace,Research & Development,Bengaluru,Aerospace Intern,"Matlab, Simulation, Mechanical Design",3,6 months,18000,careers@spacenext.com
+C009,UrbanMove Logistics,Logistics,Supply Chain,Chennai,Operations Intern,"Excel, Analytics, Communication",9,3 months,10000,jobs@urbanmove.com
+C010,SafeNet Cyber,IT,Cybersecurity,Noida,Cybersecurity Intern,"Network Security, Ethical Hacking",6,4 months,16000,apply@safenet.com
+C011,BlueWave Media,Media,Content Creation,Mumbai,Content Creator Intern,"Video Editing, Canva, Storytelling",10,2 months,9000,interns@bluewave.com
+C012,FoodieTech,FoodTech,Food Delivery,Bangalore,Operations Intern,"Excel, Data Entry, Customer Support",15,2 months,7000,hr@foodietech.com
+C013,AutoMech Motors,Automobile,EV Manufacturing,Pune,Mechanical Intern,"CAD, Problem Solving, EV Basics",5,4 months,12000,careers@automech.com
+C014,DataSolve Analytics,IT,Data Science,Hyderabad,Data Analyst Intern,"Python, SQL, Power BI",8,3 months,15000,apply@datasolve.com
+C015,HealthNet Hospitals,Healthcare,Clinical Research,Delhi,Healthcare Intern,"Biology, Data Entry, Communication",7,6 months,10000,hr@healthnet.com
+C016,InspireEdu,EdTech,E-learning,Gurugram,Instructional Design Intern,"Storyboarding, Canva, Research",6,3 months,8000,careers@inspireedu.com
+C017,RetailX Global,Retail,E-commerce,Bangalore,E-commerce Intern,"Excel, Marketing, Product Listing",12,2 months,10000,jobs@retailx.com
+C018,GreenBuild Constructions,Infrastructure,Sustainable Housing,Chennai,Sustainability Intern,"AutoCAD, Civil Engg, Green Design",4,4 months,13000,apply@greenbuild.com
+C019,NextGen AI Labs,IT,Artificial Intelligence,Pune,AI Intern,"Python, ML, TensorFlow",5,3 months,20000,interns@nextgenai.com
+C020,OceanBlue Shipping,Logistics,Maritime,Kochi,Shipping Intern,"Logistics, Excel, International Trade",6,6 months,15000,careers@oceanblue.com
+C021,FinTech Hive,Finance,Digital Payments,Delhi,FinTech Intern,"Python, Blockchain Basics, Excel",8,3 months,18000,apply@fintechhive.com
+C022,Culture360,NGO,Community Development,Bhubaneswar,Community Intern,"Report Writing, Communication",10,2 months,7000,hr@culture360.org
+C023,AgroTech Labs,Agriculture,Farm Automation,Lucknow,Agriculture Intern,"IoT, Robotics, Data Collection",4,4 months,12000,apply@agrotech.com
+C024,UrbanSky Realty,Real Estate,Smart Cities,Mumbai,Urban Planning Intern,"GIS, CAD, Data Analysis",7,6 months,14000,careers@urbansky.com
+C025,MedVision Diagnostics,Healthcare,Medical Imaging,Bangalore,Diagnostics Intern,"AI in Healthcare, Python",6,3 months,15000,interns@medvision.com
+C026,CloudX Technologies,IT,Cloud Computing,Hyderabad,Cloud Intern,"AWS, Azure, Linux",9,4 months,16000,jobs@cloudx.com
+C027,TechFleet Mobility,Automobile,Smart Mobility,Chennai,EV Intern,"IoT, EV Systems, CAD",5,6 months,15000,careers@techfleet.com
+C028,AgriWave Co-op,Agriculture,Rural Supply Chains,Patna,Agribusiness Intern,"Excel, Communication, Data Entry",8,2 months,9000,hr@agriwave.com
+C029,NextStep Robotics,Robotics,Automation,Pune,Robotics Intern,"C++, Python, ROS",4,4 months,18000,interns@nextstep.com
+C030,GlobeTrade Exports,Trade,Export-Import,Ahmedabad,Trade Analyst Intern,"Excel, Data Analysis, Communication",6,3 months,12000,apply@globetrade.com
